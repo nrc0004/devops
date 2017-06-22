@@ -8,3 +8,4 @@ Blackstone Technology group can commit to at list once a month.
 |-------|--------|--------|-------|
 |Blackstone Technology Group|1110 N Glebe Rd, Suite 200, Arlington, VA| 30|Victoria Guido
 |Mapbox| 1509 16th St NW | tbd | Alex Ulsh
+|Excella| 2300 Wilson Blvd #630, Arlington, VA 22201 | 30 | Natasha Clark
